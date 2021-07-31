@@ -14,14 +14,13 @@ No not the actual snakes.....but these cool things:
 ### 2. Tableau
 Not your ordinary iPad either:
 
-[Population Sustainability Analysis - South Korea](https://github.com/joekimani/Portfolio/blob/ff8b1efbd41c2a2930f0dc50a87321515c2c6d51/Population%20Sustainability%20Analysis%20-%20South%20Korea.png)
-
-
-
-
+[Are We First Name Biased?](https://github.com/joekimani/Portfolio/blob/ff8b1efbd41c2a2930f0dc50a87321515c2c6d51/Population%20Sustainability%20Analysis%20-%20South%20Korea.png)
 
 ### 3. Power BI
 You will likely have the song "I Got The Power" playing in your mind when you fire up PowerBI:
+
+[Population Sustainability Analysis - South Korea](https://github.com/joekimani/Portfolio/blob/ff8b1efbd41c2a2930f0dc50a87321515c2c6d51/Population%20Sustainability%20Analysis%20-%20South%20Korea.png)
+
 
 ### 4. SQL
 You will definately be back for the SeQueL:
