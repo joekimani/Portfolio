@@ -14,7 +14,7 @@ No not the actual snakes.....but these cool things:
 ### 2. Tableau
 Not your ordinary iPad either:
 
-[Are We First Name Biased?](https://github.com/joekimani/Portfolio/blob/ff8b1efbd41c2a2930f0dc50a87321515c2c6d51/Population%20Sustainability%20Analysis%20-%20South%20Korea.png)
+[Are We First Name Biased?](https://github.com/joekimani/Portfolio/blob/a9cb9e29ba30a4885f20c068ef81b33e9308851b/First%20Name%20Count%20-%20Histogram.pdf)
 
 ### 3. Power BI
 You will likely have the song "I Got The Power" playing in your mind when you fire up PowerBI:
