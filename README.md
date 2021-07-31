@@ -6,7 +6,7 @@ Below are 5 areas you'll come across
 
 ### 1. Python
 No not the actual snakes.....but these cool things:
-[Data Reproducability:] (https://github.com/joekimani/Portfolio/blob/2db1c31607c2dcec68b65f79a65a6a5ea86f6fca/Data%20Reproducibility.ipynb) 
+[Data Reproducability](https://github.com/joekimani/Portfolio/blob/2db1c31607c2dcec68b65f79a65a6a5ea86f6fca/Data%20Reproducibility.ipynb) 
 
 ### 2. Tableau
 Not your ordinary iPad either:
