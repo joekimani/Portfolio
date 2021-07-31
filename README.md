@@ -1,20 +1,24 @@
 ## Welcome!
 
-This page is dedicated to all things Visual and Analytical. While taking Data Analytics courses, I came a cross some cool features and skills. Check out my top 5 favorite projects below!
+This page is dedicated to all things Visual and Analytical for students considering a Data Analytics program. While taking Data Analytics courses, I came a cross some cool features and skills. 
 
-### My Data Analytics Journey
+Below are 5 areas you'll come across
 
-So it began..... 
+### 1. Python
+No not the actual snakes.....but these cool things:
 
-# My first Visualization: 
-[Ontario Sunshine List Viz using Tableau](https://public.tableau.com/profile/joseph.kimani#!/vizhome/AreWeFirstNameBiased/FirstNameCountDistribution)
+### 2. Tableau
+Not you ordinary iPad either:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 3. Power BI
+You will likely have the song "I Got The Power" playing in your mind when you fire up PowerBI:
 
-### Jekyll Themes
+### 4. SQL
+You will definately be back for the SeQueL:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joekimani/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 5. BPMN
+Because no one should ever interrupt your flow:
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Reach out to the Owner or check out this awesome resource [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll get you sorted.
