@@ -1,6 +1,6 @@
 ## Welcome!
 
-This page is dedicated to all things Visual and Analytical for students considering a Data Analytics program. While taking Data Analytics courses, I came a cross some cool features and skills. Hopefully this makes you less nervous about coding and more exciting about creating cool innovative solutions.
+This page is dedicated to all things Visual and Analytical for students considering a Data Analytics program, from a graduating student to a newbie. While taking Data Analytics courses, I came a cross some cool features and skills along the way. Hopefully this makes you less nervous about coding and more exciting about creating cool innovative solutions.
 
 Below are 5 areas you'll come across
 
