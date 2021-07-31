@@ -2,9 +2,9 @@
 
 This page is dedicated to all things Visual and Analytical. While taking Data Analytics courses, I came a cross some cool features and skills. Check out my top 5 favorite projects below!
 
-### Markdown
+### My Data Analytics Journey
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My first python code....ever! -> 
 
 ```markdown
 Syntax highlighted code block
