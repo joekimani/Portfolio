@@ -4,25 +4,10 @@ This page is dedicated to all things Visual and Analytical. While taking Data An
 
 ### My Data Analytics Journey
 
-My first python code....ever! -> 
+So it began..... 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+# My first Visualization: 
+[Ontario Sunshine List Viz using Tableau](https://public.tableau.com/profile/joseph.kimani#!/vizhome/AreWeFirstNameBiased/FirstNameCountDistribution)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
