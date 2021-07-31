@@ -9,7 +9,7 @@ No not the actual snakes.....but these cool things:
 
 [Data Reproducability](https://github.com/joekimani/Portfolio/blob/2db1c31607c2dcec68b65f79a65a6a5ea86f6fca/Data%20Reproducibility.ipynb)
 
-[Crime Rate Analysis](https://github.com/joekimani/Portfolio/blob/2db1c31607c2dcec68b65f79a65a6a5ea86f6fca/Data%20Reproducibility.ipynb)
+[Crime Rate Analysis](https://github.com/joekimani/Portfolio/blob/b539fec22187bc7d1b3ba125f196137e919b8ca6/Crime_Analysis.ipynb)
 
 ### 2. Tableau
 Not your ordinary iPad either:
