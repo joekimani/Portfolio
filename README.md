@@ -9,7 +9,7 @@ No not the actual snakes.....but these cool things:
 [Data Reproducability:] (https://github.com/joekimani/Portfolio/blob/2db1c31607c2dcec68b65f79a65a6a5ea86f6fca/Data%20Reproducibility.ipynb) 
 
 ### 2. Tableau
-Not you ordinary iPad either:
+Not your ordinary iPad either:
 
 ### 3. Power BI
 You will likely have the song "I Got The Power" playing in your mind when you fire up PowerBI:
