@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/joekimani/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is dedicated to all things Visual and Analytical. While taking Data Analytics courses, I came a cross some cool features and skills. Check out my top 5 favorite projects below!
 
 ### Markdown
 
