@@ -1,6 +1,6 @@
 ## Welcome!
 
-This page is dedicated to all things Visual and Analytical for students considering a Data Analytics program. While taking Data Analytics courses, I came a cross some cool features and skills. 
+This page is dedicated to all things Visual and Analytical for students considering a Data Analytics program. While taking Data Analytics courses, I came a cross some cool features and skills. Hopefully this makes you less nervous about coding and more exciting about creating cool innovative solutions.
 
 Below are 5 areas you'll come across
 
@@ -20,7 +20,6 @@ Not your ordinary iPad either:
 You will likely have the song "I Got The Power" playing in your mind when you fire up PowerBI:
 
 [Population Sustainability Analysis - South Korea](https://github.com/joekimani/Portfolio/blob/ff8b1efbd41c2a2930f0dc50a87321515c2c6d51/Population%20Sustainability%20Analysis%20-%20South%20Korea.png)
-
 
 ### 4. SQL
 You will definately be back for the SeQueL:
