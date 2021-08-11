@@ -27,7 +27,7 @@ You will definately be back for the SeQueL:
 ### 5. Personal Roadmap
 In your Data Analytics career path, no one should ever interrupt your flow:
 
-[Personal Roadmap](https://github.com/joekimani/Portfolio/blob/a9cb9e29ba30a4885f20c068ef81b33e9308851b/First%20Name%20Count%20-%20Histogram.pdf)
+[Personal Roadmap](https://github.com/joekimani/Portfolio/blob/c46497f54a85fbb39a2d536dedea7f576d785aeb/Personal%20Roadmap.png)
 
 ### Support or Contact
 
